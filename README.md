@@ -1,4 +1,4 @@
-**Supply Chain Management Dashboard (Power BI)**
+**SUPPLY CHAIN MANAGEMENT DASHBOARD (POWER BI)**
 
 **Project Overview :**
 
